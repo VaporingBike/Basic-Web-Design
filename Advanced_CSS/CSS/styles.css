@@ -19,6 +19,7 @@ body {
     width: 50%;
     border: 2px solid black;
     padding: 35px;
+    margin: 35px;
 }
 
 #col1 img {
@@ -30,6 +31,7 @@ body {
     width: 50%;
     border: 2px solid black;
     padding: 35px;
+    margin: 35px;
 }
 
 #col2 img {
